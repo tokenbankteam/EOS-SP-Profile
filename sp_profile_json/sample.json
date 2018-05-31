@@ -1,0 +1,21 @@
+{
+  "nickname": "TokenPocket",
+  "account_name": "atokenpocket",
+  "public_key": "EOSxxxxxxxxxxxxxxx9AE",
+  "logo": "sample_proxy_logo.png",
+  "cover": "sample_proxy_cover.png",
+  "website": "https://www.mytokenpocket.vip/",
+  "email": "tokenpocket@163.com",
+  "location": {
+    "en":"Shenzhen, Guangdong",
+    "zh":"广东，深圳"
+  },
+  "introduce": {
+    "en": "TokenPocket is a multi-foundations blockchain wallet, which aims to solve the complications of entering blockchain world. We contribute to make a Dapps platform for thousands of developers and embody variety of the valued internet.",
+    "zh": "TokenPocket是一个多链多资产钱包，致力于让区块链更易接触，并打造一个价值互联网平台。"
+  },
+  "social_network": {
+    "weibo": "",
+    "wechat": ""
+  }
+}
