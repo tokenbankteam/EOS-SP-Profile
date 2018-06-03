@@ -1,3 +1,10 @@
+# BP
+The full name of BP is Block Producer.
+
+# SP
+The full name of SP is Super Proxy, who can represents others, and votes the BP.
+
+
 # EOS-SP-Profile
 The purpose of the repo is to make users know more about EOSIO. SP means Super Proxy, here is the SP info display Example: 
 
