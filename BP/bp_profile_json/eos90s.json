@@ -1,0 +1,23 @@
+{
+  "nickname": "eos90后",
+  "account_name": "eosninetiess",
+  "public_key": "",
+  "introduce": {
+    "en": "EOS90s is a Chinese team dedicated to promoting EOS ecology to the general public.",
+    "zh": "EOS90s是一个专注于向普通大众宣传EOS生态的中国团队"
+  },
+  "logo": "logo-eos90s.png",
+  "website":"http://www.eos90s.io",
+  "email": "",
+  "social_network": {
+      "twitter": "https://twitter.com/Eos90S",
+      "github": "",
+      "telegram": "https://t.me/EOS90s",
+      "weibo": "",
+      "wechat": ""
+    },
+  "location": {
+    "en":"changsha china",
+    "zh":"湖南长沙"
+  }
+}
