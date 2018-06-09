@@ -7,17 +7,17 @@
     "zh": "行业领先的游戏引擎、开发工具及软件服务商。"
   },
   "logo": "logo_eoscocos.png",
-  "website":"http://www.cocosbcx.io/",
+  "website": "http://www.cocosbcx.io/",
   "email": "support@tclabs.tech",
   "social_network": {
-      "twitter": "https://twitter.com/cocosbcx",
-      "github": "https://github.com/cocosbcx",
-      "telegram": "",
-      "weibo": "",
-      "wechat": ""
-    },
+    "twitter": "https://twitter.com/cocosbcx",
+    "github": "https://github.com/cocosbcx",
+    "telegram": "",
+    "weibo": "",
+    "wechat": ""
+  },
   "location": {
-    "en":"BeiJing, China",
-    "zh":"北京，中国"
+    "en": "BeiJing, China",
+    "zh": "北京，中国"
   }
 }

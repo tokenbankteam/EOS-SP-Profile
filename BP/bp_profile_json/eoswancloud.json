@@ -7,16 +7,16 @@
     "zh": "Wancloud聚集了一批经验丰富的区块链行业精英，他们均有深厚的区块链行业相关背景。"
   },
   "logo": "logo_eoswancloud.png",
-  "website":"http://www.wancloud.cloud",
+  "website": "http://www.wancloud.cloud",
   "email": "contact@wancloud.cloud",
   "social_network": {
-      "steemit": "https://steemit.com/@eoswancloud",
-      "twitter": "https://twitter.com/WancloudEOS",
-      "facebook": "https://www.facebook.com/wan.cloud.73",
-      "telegram": "https://t.me/EOSWancloud"
-    },
+    "steemit": "https://steemit.com/@eoswancloud",
+    "twitter": "https://twitter.com/WancloudEOS",
+    "facebook": "https://www.facebook.com/wan.cloud.73",
+    "telegram": "https://t.me/EOSWancloud"
+  },
   "location": {
-    "en":"HongKong",
-    "zh":"香港"
+    "en": "HongKong",
+    "zh": "香港"
   }
 }

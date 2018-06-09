@@ -7,17 +7,17 @@
     "zh": "TokenPocket是一个多链多资产钱包，致力于让区块链更易接触，并打造一个价值互联网平台。"
   },
   "logo": "",
-  "website":"",
+  "website": "",
   "email": "",
   "social_network": {
-      "twitter": "",
-      "github": "",
-      "telegram": "",
-      "weibo": "",
-      "wechat": ""
-    },
+    "twitter": "",
+    "github": "",
+    "telegram": "",
+    "weibo": "",
+    "wechat": ""
+  },
   "location": {
-    "en":"Shenzhen, Guangdong",
-    "zh":"广东，深圳"
+    "en": "Shenzhen, Guangdong",
+    "zh": "广东，深圳"
   }
 }

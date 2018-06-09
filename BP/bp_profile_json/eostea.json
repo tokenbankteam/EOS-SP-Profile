@@ -7,17 +7,17 @@
     "zh": "EOSTEA是一个由社区驱动且保持中立的团队, 目前运营着最大的EOS开发者社区: eosfans.io"
   },
   "logo": "logo_eostea.png",
-  "website":"https://eostea.io/",
+  "website": "https://eostea.io/",
   "email": "support@tclabs.tech",
   "social_network": {
-      "twitter": "https://twitter.com/eostea_io",
-      "github": "https://github.com/eostea",
-      "telegram": "https://t.me/eosfanscn",
-      "weibo": "https://weibo.com/eosfanscn",
-      "wechat": "eosiochina"
-    },
+    "twitter": "https://twitter.com/eostea_io",
+    "github": "https://github.com/eostea",
+    "telegram": "https://t.me/eosfanscn",
+    "weibo": "https://weibo.com/eosfanscn",
+    "wechat": "eosiochina"
+  },
   "location": {
-    "en":"HongKong",
-    "zh":"香港"
+    "en": "HongKong",
+    "zh": "香港"
   }
 }
