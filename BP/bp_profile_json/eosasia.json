@@ -1,23 +1,23 @@
 {
-  "nickname": "EOS Asia",
-  "account_name": "eosasia11111",
-  "public_key": "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+  "nickname": "SheLeaders",
+  "account_name": "sheleaders21",
+  "public_key": "EOS7LGK4aCwe69AB9f796fdTaiz4zCQPCUV1mLU8Qwm4voAgWbQ96",
   "introduce": {
-    "en": "We are the Avengers of the EOS community. EOS Asia has an all-star founding team that brings together wizards of China, Europe, United States and South Korea. Our core technical members are backed by Silicon Valley incubator Y Combinator and recognized by well-known industry veterans. With 15 years of experience in server and cloud technology, we are handling applications for tens of millions of users. Our team: Dafeng is EOS Asia cofounder and CTO of Strikingly, where he graduated from Y Combinator in 2013; Joseph Fanelli is EOS Asia cofounder and the founder of EOS Link, EOS Go China ambassador, guest writer for NEO City of Zion, and cofounder of webao.co; Jinma Li is head of operations in China for EOS Asia, he is the founder of Xiaoma Capital (笑马资本) and creator of the brand “Crypto Golden Horse Award” (币圈金马奖) and a crypto KOL.John Yoon is head of operations in Korea for EOS Asia and the head editor of Startup Radar, a startup tech media platform that helps Korean startups go global; Tyler Diaz is Blockchain Developer & Evangelist.",
-    "zh": "EOS Asia 拥有全明星团队，正如复仇者联盟一样，阵容强大，汇集美国、欧洲、中国、和韩国的超级大脑。EOS Asia 的核心成员，得到了硅谷孵化器 Y Combinator 的支持，也受到了知名黑客的认可，我们拥有超过 15 年的服务器和云技术经验，处理过千万用户级的应用程序。团队如下：郭达峰，EOS Asia 联合创始人，Strikingly 联合创始人兼CTO，香港中文大学荣誉毕业生；Joseph Fanelli，意大利人。EOS Asia 联合创始人，EOS Link 创始人， EOS Go 中国大使，City of Zion 特邀撰稿人，微包网站开发 CEO。李金马，中国运营负责人，「笑马资本」创始人，「币圈金马奖」品牌创建者，「金马带你定投区块链」社群创建者，区块链圈 KOL。John Yoon，韩国区运营负责人，「Startup Radar」的主编。Tyler Diaz 来自美国，区块链开发者和技术布道师，是一位资深开发人员。"
+    "en": "SheLeaders is a decentralized autonomous community of women leaders who keep learning and exploring the great paradigm shifts of our lives driven by innovations.SheLeaders is a community-owned block producer of credible and women friendly blockchains.SheLeaders is a non-profit organization that receive donations, all income will only be used to benefit community.",
+    "zh": "SheLeaders，是一个女性去中心化自治社群，非营利组织，也是一个社群共同拥有的区块生产者，我们代表全体女性参与经我们全面评估后靠谱并对女性友好的各公链跨链生态建设，所得将全部用于所在链生态和社群的建设。虽然我们的发起人是在各个领域中做出过成绩和贡献的女性领导者们，但我们没有年龄、地域、种族、专业、经济能力、政治地位的区分，为所有社群成员绝对平等而存在，所以欢迎所有女性朋友加入。虽然从平均颜值来看，我们应该是最高的吧，但我们并不屑自封“女神”，我们仅仅是相信在区块链的世界，每一位女性都有权并应该成为领导者。此外，我们绝非极端女权组织，事实上，我们不排斥男同胞们的支持与加入。"
   },
-  "logo": "logo_eosasia.png",
-  "cover": "cover_eosasia.png",
-  "website": "https://www.eosasia.one",
-  "email": "bp@eosa.com",
+  "logo": "logo-sheleaders.png",
+  "cover": "cover-sheleaders.png",
+  "website": "https://www.sheleaders.one",
+  "email": "contact@sheleaders.one",
   "social_network": {
-    "steemit": "https://steemit.com/@eos-asia",
-    "twitter": "https://twitter.com/eosasia_one",
-    "github": "https://github.com/eosasia",
-    "telegram": "https://t.me/EOSAsia"
+    "steemit": "https://steemit.com/@eosmatrix",
+    "twitter": "https://twitter.com/SheLeaders_",
+    "github": "https://github.com/musikayusi",
+    "telegram": "https://t.me/sheleaders"
   },
   "location": {
-    "en": "Hong Kong",
-    "zh": "香港"
+    "en": "Beijing",
+    "zh": "北京"
   }
 }
