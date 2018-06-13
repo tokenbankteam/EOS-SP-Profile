@@ -1,0 +1,22 @@
+{
+  "nickname": "EOS Add",
+  "account_name": "eosadddddddd",
+  "public_key": "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
+  "introduce": {
+    "en": "The EOS Add (EOS+) is a reserve super node candidate initiated by the EOS Genesis member and the investment agency focused on the EOS Ecology that promote the launch of the EOS main network.",
+    "zh": "EOS Add（EOS+）由是推动EOS主网启动的EOS创世纪成员与专注EOS生态的投资机构发起的后备超级节点候选人。"
+  },
+  "logo": "logo_eosadd.png",
+  "website": "http://eosadd.com",
+  "email": "eosbeijing@protonmail.com",
+  "social_network": {
+    "steemit": "",
+    "twitter": "",
+    "github": "",
+    "wechat": ""
+  },
+  "location": {
+    "en": "London",
+    "zh": "伦敦"
+  }
+}
