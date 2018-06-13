@@ -1,7 +1,7 @@
 {
   "nickname": "HelloEOS",
   "account_name": "helloeoscnbp",
-  "public_key": "",
+  "public_key": "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
   "introduce": {
     "en": "Gathering the best developers of Graphene toolkit and senior leaders of the community.",
     "zh": "汇聚国内最强石墨烯开发者力量，构建最具底蕴EOS社区。"
@@ -16,7 +16,7 @@
     "telegram": "https://t.me/helloeos123"
   },
   "location": {
-    "en": "Tokyo, Japan",
-    "zh": "东京，日本"
+    "en": "Hangzhou",
+    "zh": "杭州"
   }
 }
