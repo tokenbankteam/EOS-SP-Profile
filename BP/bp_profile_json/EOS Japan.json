@@ -1,0 +1,22 @@
+{
+  "nickname": "EOS Japan",
+  "account_name": "eosjapanclub",
+  "public_key": "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
+  "introduce": {
+    "en": "EosJapan is a BP campaign launched by Japanese EOS enthusiasts，We want to promote the development of EOS in Japan，and help EOS get to the Japanese exchange as soon as possible.The founding team included Shizuka Nakamura, the queen of Japan's digital currency. Famous Japanese block chain project CTO, millions of read bloggers: Arata; Also has more than 10 years of industry experience, NTT docomo technical experts and so on.",
+    "zh": "EosJapan是由日本币圈精英联合发起的超级节点竞选团队，推动EOS在日本的发展，助EOS早日上日本交易所。创始团队包括日本币圈女王Shizuka Nakamura；日本知名区块链项目的CTO、百万级大V Arata；行业经验10年以上，NTT docomo技术专家五十嵐等。"
+  },
+  "logo": "logo_eosjapan.png",
+  "website": "https://www.eosjapan.co.jp",
+  "email": "eosjapancojp@yahoo.co.jp",
+  "social_network": {
+    "steemit": "https://steemit.com/@eosjapancojp",
+    "twitter": "https://twitter.com/EosJapancojp",
+    "facebook": "https://www.facebook.com/groups/222839938478527",
+    "telegram": "https://t.me/eos_japan"
+  },
+  "location": {
+    "en": "Tokyo,Japan",
+    "zh": "日本东京"
+  }
+}
