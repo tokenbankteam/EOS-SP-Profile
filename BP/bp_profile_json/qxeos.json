@@ -1,0 +1,21 @@
+{
+  "nickname": "EOSQX HANGZHOU",
+  "account_name": "qxeosqxeosbp",
+  "public_key": "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
+  "logo": "logo_qxeos.png",
+  "cover": "cover_qxeos.png",
+  "website": "https://www.blockpin.net/eos/",
+  "email": "afzheng@live.com",
+  "location": {
+    "en":"zhejiang, Hangzhou",
+    "zh":"浙江，杭州"
+  },
+  "introduce": {
+    "en": "QiXiang community is a technology oriented self media alliance. We are doing something to change the world！",
+    "zh": "旗象社区是一个技术导向的自媒体联盟，我们在做着改变世界的事情！"
+  },
+  "social_network": {
+    "weibo": "",
+    "wechat": ""
+  }
+}
